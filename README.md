@@ -46,5 +46,6 @@ The full synthetic data set (1000 images) is not included in this repo.
 ## Notes
 - CLIP embeddings + FAISS provide fast similarity search for asset identification
 - Metadata validation is a useful sanity check that retrieval is semantically consistent (ie same color, material etc)
+- Powerpoint used for presentation on RAG usage is included 
 
 
