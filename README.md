@@ -38,7 +38,7 @@ Script: Scripts/ Query FAISS.py
 - FAISS Index
 
 **Outputs**
-Top k results, with k being specified in Query FAISS.py
+-Top k results, with k being specified in Query FAISS.py
 
 ## Dataset
 The full synthetic data set (1000 images) is not included in this repo.
